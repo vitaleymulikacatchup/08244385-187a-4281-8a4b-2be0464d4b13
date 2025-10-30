@@ -27,7 +27,7 @@ export default function Home() {
             { name: "Reviews", id: "reviews" },
             { name: "Contact", id: "contact" }
           ]}
-          brandName="Bella Vista"
+          brandName="qwfjqnfqjef"
         />
       </div>
 
@@ -61,7 +61,7 @@ export default function Home() {
 
       <div id="menu" data-section="menu">
         <ProductCardThree
-          title="Signature Dishes"
+          title="qwfqwfwqf"
           description="Discover our chef's carefully curated selection of authentic Italian favorites"
           tag="Menu Highlights"
           tagIcon={ChefHat}
