@@ -33,7 +33,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroBillboard
-          title="Exceptional Dining Experience"
+          title="qkwbfkfbqkfbqwkjf"
           description="Savor authentic Italian cuisine crafted with passion and the finest ingredients in an elegant atmosphere"
           tag="Welcome"
           tagIcon={Utensils}
@@ -41,7 +41,7 @@ export default function Home() {
             { text: "Reserve Table", href: "https://opentable.com" },
             { text: "View Menu", href: "menu" }
           ]}
-          imageSrc="https://images.pexels.com/photos/3201920/pexels-photo-3201920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Elegant restaurant dining room"
         />
       </div>
